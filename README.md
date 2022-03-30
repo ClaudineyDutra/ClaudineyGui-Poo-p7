@@ -12,7 +12,7 @@ Ele foi criado para postar os scripts que eu fizer para a aula de poo
     * concluída dia 29/03/22
 - [x] Presença 04
     * concluída dia 29/03/22
-- [] Presença 05
+- [ ] Presença 05
 
 ## Checklist de Atividades de Avaliação
 - [x] Avaliação 01
